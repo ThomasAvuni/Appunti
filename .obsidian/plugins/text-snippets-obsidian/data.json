@@ -1,0 +1,15 @@
+{
+  "snippets_file": ";ora : <span style=\"color: orange\">\n;s : </span>\n",
+  "snippets": [
+    ";ora : <span style=\"color: orange\">",
+    ";s : </span>"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": false,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": false
+}

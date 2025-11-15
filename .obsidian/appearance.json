@@ -1,5 +1,6 @@
 {
   "cssTheme": "Tokyo Night",
   "baseFontSizeAction": true,
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "nativeMenus": false
 }

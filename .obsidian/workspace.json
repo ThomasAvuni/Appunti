@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Databases/Progettare uno schema E-R.md",
+                "file": "Templates/OrangeSpan.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Progettare uno schema E-R"
+              "title": "OrangeSpan"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prova.md",
+                "file": "Informatica/Databases/Progettare uno schema E-R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prova"
+              "title": "Backlinks for Progettare uno schema E-R"
             }
           },
           {
@@ -135,11 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatica/Databases/Progettare uno schema E-R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Progettare uno schema E-R"
             }
           },
           {
@@ -194,6 +195,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bf9fcb6bcff31ad0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Templates/OrangeSpan.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for OrangeSpan"
+            }
           }
         ],
         "currentTab": 5
@@ -213,13 +226,18 @@
       "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4f08e10c544e9a6d",
+  "active": "ecebfb25debfa84c",
   "lastOpenFiles": [
-    "AA",
     "Informatica/Databases/Progettare uno schema E-R.md",
+    "Templates/OrangeSpan.md",
+    "Templates",
+    "Untitled.md",
+    "AA",
     "Informatica/Prova.md",
     "Informatica/Databases",
     "Informatica",
