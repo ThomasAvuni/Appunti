@@ -1,1 +1,1 @@
-<span style="color: orange"><% tp.file.selection() %></span>
+<span style="color: orange"> <% tp.file.cursor() %> </span>

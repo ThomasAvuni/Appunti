@@ -7,12 +7,22 @@
       "key": "-"
     }
   ],
-  "text-snippets-obsidian:text-snippets": [
+  "templater-obsidian:Templates/OrangeSpan.md": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": " "
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:Templates/PurpleSpan.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
     }
   ]
 }
