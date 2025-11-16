@@ -10,4 +10,3 @@ ___
 ___
 ## Schema operativo per i Diagrammi E-R
 
-dasasdsd
