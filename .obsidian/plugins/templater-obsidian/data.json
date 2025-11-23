@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
     "Templates/OrangeSpan.md",
-    "Templates/PurpleSpan.md"
+    "Templates/PurpleSpan.md",
+    "Templates/RedSpan.md"
   ],
   "startup_templates": [
     ""

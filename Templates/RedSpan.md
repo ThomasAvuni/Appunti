@@ -1,0 +1,1 @@
+<span style="color: #EE4B2B"> <% tp.file.cursor() %> </span>

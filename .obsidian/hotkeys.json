@@ -24,5 +24,14 @@
       ],
       "key": "2"
     }
+  ],
+  "templater-obsidian:Templates/RedSpan.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
   ]
 }

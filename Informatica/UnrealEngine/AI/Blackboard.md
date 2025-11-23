@@ -1,0 +1,1 @@
+Una <span style="color: orange"> Blackboard </span>è la memoria di runtime dell'AI condivisa con il [[BehaviorTree]], che contiene sostanzialmente delle variabili che possono essere lette e modificata dal [[BehaviorTree]].
